@@ -1,1 +1,1 @@
-# smart-travel-budget-planner
+# Smart-travel-budget-planner
